@@ -15,9 +15,11 @@ namespace OddorEven
             if (value % 2 == 0)
             {
                 Console.WriteLine("The number is even");
-            } else
-            { }
-            Console.WriteLine("The number is odd";
+            }
+            else
+            {
+                Console.WriteLine("The number is odd");
+            }
         }
     }
 }
